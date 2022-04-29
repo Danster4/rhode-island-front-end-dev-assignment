@@ -17,16 +17,11 @@ body {
 
 .hero-section {
   padding: 50px;
-  /* background: linear-gradient(to bottom, #184e77, white); */
-  /* background-image: url(./Images/ri-state-capital.jpg); */
-  /* height: 100%; */
   background-color: #05668d;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 60vh;
-  /* height: 80%; */
-  /* background: linear-gradient(rgb(12,34,201,0.8), rgb(12,86,173,0.32)), url(./Images/ri-state-capital.jpg) no-repeat center center; */
 }
 
 .carousel-caption {
@@ -37,7 +32,6 @@ body {
 
 .links-and-slides {
   z-index: 2;
-  /* background-color: rgb(24,78,119,0.7); */
   background-color: whitesmoke;
 }
 
@@ -50,7 +44,7 @@ body {
 
 .alert-card {
   background-color: white;
-  color: black
+  color: black;
 }
 
 .card-header {
@@ -61,7 +55,7 @@ body {
 
 .navbar {
   background-color: #03425c;
-  padding: 5px
+  padding: 5px;
 }
 
 .border-none {
@@ -69,7 +63,6 @@ body {
 }
 
 .three-card-section {
-  /* background-color: #52796f; */
   background-color: #00a896;
 }
 
@@ -83,15 +76,15 @@ body {
 
 .business-services {
   background-color: #05668d;
-  color: white
+  color: white;
 }
 
 .business-services a {
-  color: yellow
+  color: yellow;
 }
 
 .business-services a:hover {
-  color: whitesmoke
+  color: whitesmoke;
 }
 
 .file-online-img {
@@ -131,47 +124,6 @@ body {
 .tabbable .nav-tabs .nav-item .nav-link {
           display: inline-block;
 }
-
-/* Hide background image for hero in Other Small Devices
-
-
-/* Landscape tablets and medium desktops */
-/* @media (min-width: 992px) and (max-width: 1199px) {
-
-  .hero-section {
-    padding: 20px;
-}
-
-} */
-
-/* Portrait tablets and small desktops
-/* @media (min-width: 768px) and (max-width: 991px) {
-
-  .hero-section {
-    background-image: none;
-}
-
-} */
-
-/* Landscape phones and portrait tablets */
-/* @media (max-width: 767px) {
-
-  .hero-section {
-    background-image: none;
-}
-
-} */
-
-/* Portrait phones and smaller */
-/* @media (max-width: 480px) {
-
-  .hero-section {
-    background-image: none;
-}
-
-
-/*
-} */  
 
 #hero-title {
   size: 8px;;
